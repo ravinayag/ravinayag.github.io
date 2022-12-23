@@ -1,0 +1,71 @@
+- project :
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url: https://revofi.com # Full URL
+    # image:
+    #   path: #"portfolio.png" # path: assets/project/
+    #   alt: #"A screenshot of the portfolio page"
+    date: 01/2022 &ndash; Developing
+    title: REVOFi Network
+    skills: AWS, NKN, Docker, ARM64, Rancher K3s, Nodejs, Reactjs, Go lang, Prometheus, Grafana, Cloudfront, Slack Integration
+    summary: Revofi Wireless Revolution.
+    description: The RevoFi Network is a revolutionary decentralized wireless cloud services network that provides a unified infrastructure for Wi-Fi 6 Mesh, storage, compute, and cloud services., anyone can share data & earn Revos by providing network and sharing resources to compute, store, and send data across the network.
+    contents:
+        - title: 1. Technology
+          image:
+            path: #portfolio.png
+            alt: #"A screenshot of the portfolio page"
+          description: <ul style="width:50%; float:left;" > <li> Layer 1 Blockchain Network </li>
+            <li>PoN - Proof of Network</li>
+            <li>PoP - Proof of Ping </li> </ul>
+            
+            <ul style="width:50%; float:right;" > <li>IOT - EDGE </li>
+            <li>WIFI 6 Mesh</li>
+            <li>SALT</li> </ul>
+
+        # - title: 2. Optional Blog Functionality
+        #   image:
+        #     path: home.png
+        #     alt: "A screenshot of the blog page"
+        #   description: <li>Responsive Layout</li>
+        #     <li>Tags</li> 
+        #     <li>Pagination</li>
+        # - title: 3. Tags Page
+        #   image:
+        #     path: tags.png
+        #     alt: "A screenshot of the tags page"
+        #   description: <li>Responsive Layout</li> 
+        #     <li>Tags</li> 
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:  https://doctrace.com # Full URL
+    image: # path: assets/project/
+    date: 06/2019 &ndash; Developing
+    title: Doctrace
+    summary: DocTrace is the new age platform for your records.
+    description:  DocTrace is a secure, transparent and immutable digital native document generation platform powered by blockchain technology. Involved two kinds of users “Providers” and “Receivers”. Here, providers will have the access of the website to upload visual representation of documents (word, pdf, video, etc.), meta data and email address of receiver and receiver will have the access of mobile apps to accept / reject documents received, view documents and meta-data. Once the receiver accepts the document, this transaction will be permanently captured or logged in the ledger of both provider and receiver.
+    skills: AWS, Hyperledger Fabric, NodeJS, React JS, MongoDB, CouchDB, Golang, Docker, Hyperledger Caliper, Hyperledger Explorer
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:  https://www.soshwallet.com/ # Full URL
+    image: # path: assets/project/
+    date: 06/2019 &ndash; Developing
+    title: Sosh Wallet
+    summary: Transparent Finance is key for the next generation wallet for your social groups
+    description:  The Wallet that Organize, share, track, collect, expense, donate, pay and manage within your groups, your money, your way!, A Private Blockchain
+    skills: AWS, Hyperledger Fabric, NodeJS, React JS, MongoDB, CouchDB, Docker-compose, Hyperledger Explorer
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:  https://www.launchnodes.com/ # Full URL
+    image: # path: assets/project/
+    date: 06/2019 &ndash; Developing
+    title: Hyperledger Besu on EKS
+    summary: A cloud Solutions over Kubernetes with high secure by mtls of each micro service.
+    description:  Design the Cloud solution for critical infrastructure with high security on AWS Kubernetes Cluster with key services.
+    skills: AWS, Hyperledger besu, Grafana, prometheus, ElasticSearch, Logstash, MTLS, CouchDB, Docker-compose, EKS Kubernetes cluster,

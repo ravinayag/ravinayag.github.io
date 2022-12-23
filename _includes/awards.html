@@ -1,0 +1,9 @@
+{% if site.data.profile.awards %}
+  <p class="title">{{ site.theme_settings.awards_title }}</p>
+  <ul class="awards-list">
+    <div class="text-warp"></div>
+    {% for award in site.data.profile.awards %}
+    <li class="award">{{ award }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}

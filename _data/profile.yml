@@ -1,0 +1,52 @@
+image: assets/img/ravi.jpg
+username: Ravi Vasagam,  AKA ravinayag
+description: A Techno Evangelist. Open for Blockchain / DevOps Projects. Open for Cloud Infra DevOps Automation's & Migrations, Problem Management, Reverse Engineering
+webpage: https://chrjabs.github.io
+experience: # Remove for hiding the experience section
+  - start: 
+    end: 
+    experience : Devops & Blockchain Cloud consultant for Solulab, launchnodes, NorthStar, Buildpan Organisation.
+  - start: 
+    end: 
+    experience : Enterprenuership Journey as CTO for Enact Edu Solutions.
+  - start: 
+    end: 
+    experience : Multitenancy roles from JP Morgan Chase, AXA Business & Technologies, Sun MicroSystems Inc, Connectiva Inc and CMS Computers Pvt Ltd.    
+
+interests: # Remove for hiding the interests section
+  - Blockchain
+  - Advance Devops & Automation
+  - A.I.
+skills: # Remove for hiding the skills section
+  - skill: Devops & Blockchain
+    value: 85  # Percent value
+  - skill: Unix & Linux
+    value: 95  # Percent value    
+  - skill: Programing languages
+    value: 70  # Percent value      
+social:
+  email:  ravinayag@gmail.com
+  orcid: 
+  scholar: 
+  publons: 
+  research_gate: 
+  dblp:  # Full URL
+  semantic_scholar:  # Full URL
+  linkedin:  linkedin.com/in/ravinayag
+  github: ravinayag
+  gitlab: ravinayag
+  bitbucket: 
+  google_plus:
+  medium: ravinayag
+  twitter: ravinayag
+  youtube:
+  facebook:
+  blogspot: solarissupport   # https://linuxsupporttips.wordpress.com ,
+awards: # Remove for hiding the awards section
+  - "Best DevOps Productivity of the Year • Solulab • 2021"
+  - "FIVE Key Recognition • JP Morgan Chase • Feb 2017"
+  - "Numero Uno • JP Morgan Chase • Aug 2016"
+  - "Project Manager • JP Morgan Chase • Oct 2015"
+  - "Problem Management Award • AXA Business & Technologies • Feb 2010 "
+  - "Excellent Customer Handling Award • Sun Microsystem Inc • Jul 2007"
+  - "Best Team Management • CMS Computers Ltd • Jul 2002, 2004"
