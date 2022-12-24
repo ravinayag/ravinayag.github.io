@@ -52,10 +52,10 @@ plugins:
   - jekyll/scholar
   - jekyll-seo-tag  
   # - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+  # - jekyll-gist
+  # - jekyll-feed
+  # - jemoji
+  # - jekyll-include-cache
   # ['jekyll-paginate', 'jekyll/scholar', 'jekyll-seo-tag']
 bootstrap:
   assets: true
