@@ -1,7 +1,7 @@
 ---
 layout: hub
 title: Example Hub Page
-citekey: test # automatically add links, abstract and bibtex entry from a publication
+citekey: #test # automatically add links, abstract and bibtex entry from a publication
 description: An _example_ for how to use hub pages.
 links: # specify links manually
   - url: https://www.google.com
