@@ -35,10 +35,10 @@ theme_settings:
   experience_title: EXPERIENCE
   interests_title: RESEARCH INTERESTS
   skills_title: SKILLS
-  awards_title: RECOGANISATION in ORGANISATION
+  awards_title: HONORS
   projects_title: PROJECTS
-  recentpubs_title: RECENT PUBLICATIONS
-
+  recentpubs_title: ARTICLES
+  
 # Pagination
 paginate: 5
 paginate_path: "blog/page:num"
