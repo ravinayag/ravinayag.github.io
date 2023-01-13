@@ -34,14 +34,19 @@ layout: page
     <article class="exper col-12 col-md-6">
       {% include experience.html %}
       {% include awards.html %}
+      <p class="title" > {{ site.theme_settings.tools_title }}</p>
     </article>
     <article class="skills col-12 col-md-6">
       {% include interests.html %}
       {% include skills.html %}
+    
     </article>
   </section>
-
+  
+  {% include skilltable.html %}
   {% include projects.html %}
 
   {% include recentpubs.html %}
+
+  
 </div>

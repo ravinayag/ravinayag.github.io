@@ -38,6 +38,7 @@ theme_settings:
   awards_title: HONORS
   projects_title: PROJECTS
   recentpubs_title: ARTICLES
+  tools_title: MyLibrary's Reference.
   
 # Pagination
 paginate: 5

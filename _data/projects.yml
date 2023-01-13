@@ -103,3 +103,14 @@
     summary: The StarterKit provides a single window concept for all Hyperledger projects and associated tools.
     description:  The Starter kit reduces the barrier for entry by making the initial experience to research and developing project solutions painless. The tool makes it easier for the learners by covering end to end with sample use cases and custom generated configuration by setup proof of concept for learning, experimenting and testing.
     skills: Shell, yaml, Docker, Go, Ansible
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:   https://UNDERNDA # Full URL
+    image: # path: assets/project/
+    date: 06/2022 &ndash; Python
+    title: Formosa
+    summary: Formosa is a password format that maximizes the ratio of password strength to user's effort.
+    description:  The password generation process consists of mapping input phrases into meaningful mnemonic sentences, then condensed into the password.This is an improvement on the BIP-0039 method — which provides sequences of semantically and syntactically disconnected words as passphrases — because it uses meaningful phrases with a certain theme.
+    skills: Python,Shellscripting

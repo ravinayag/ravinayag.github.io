@@ -1,0 +1,14 @@
+Skill , Tool1,Tool2,Tool3,Tool4,Tool5,
+Blockchain, Ethereum++,Hyperledger,Corda,Multichain,NKN
+Blockchain Tools, Web3js,web3signer,Consensys,Chainlink,Infura,
+Chaos Engineering, Gremlin,
+CloudPlatform, AWS, GCP, DigitalOcean, Linode, Oracle
+Containerization, Docker, Containerd, Lxd/Lxc
+Container Orhestration, AWS-EKS, Native-K8S, Rancher-K3S, GCP-GKE,Docker-Swarm
+Code Quality,Veracode,SonarQube
+Config Management, Chef,Ansible,Terraform,
+CI/CD Tools,Jenkins, GH-Actions, GL-Pipelines,CircleCI,
+Databases,Mysql/Mariadb, Postgres,Mongodb,Couchdb,Dynamodb
+Monitoring & Dashboard, ELK, Nagios, Splunk,Dynatrace,Greylog
+Unit Testing,Junit,Jmeter,Selelinum,Cucumber
+Version Control,Git,SVN,Bitbucket
