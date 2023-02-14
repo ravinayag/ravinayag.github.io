@@ -64,7 +64,7 @@
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url:  https://www.launchnodes.com/ # Full URL
     image: # path: assets/project/
-    date: 06/2021 &ndash; Cloud Architect &  Devops
+    date: 01/2022 &ndash; Cloud Architect &  Devops
     title: Hyperledger Besu on EKS
     summary: A cloud Solutions over Kubernetes with high secure by mtls of each micro service.
     description:  Design the Cloud solution for critical infrastructure with high security on AWS Kubernetes Cluster with key services.
@@ -75,18 +75,18 @@
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url:  https://www.buildpan.com/ # Full URL
     image: # path: assets/project/
-    date: 06/2022 &ndash; Project Manager, Devops &  python dev
+    date: 05/2022 &ndash; Project Manager, Devops &  python dev
     title: Buildpan CI/CD services
     summary: I Internal CI/CD solution  A cloud Solutions over Kubernetes with high secure by mtls of each micro service.
-    description:  Design the Cloud solution for critical infrastructure with high security on AWS Kubernetes Cluster with key services.
-    skills: Python, Reactjs, vuejs
+    description:  Design the product (frontend  & Backend ) with python API's call interacting with Github,bitbucket,gitlab services. the UI handle all CLI operations such as commit, logs and merge.
+    skills: Python, Reactjs, vuejs,
 
 - project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url:  https://www.launchnodes.com/ # Full URL
     image: # path: assets/project/
-    date: 06/2022 &ndash; Cloud Architect &  Devops
+    date: 08/2022 &ndash; Cloud Architect &  Devops
     title: Web3signer for ETH2 Validator over AWS Kubernetees Cluster.
     summary: A cloud Solutions over Kubernetes with high secure by mtls secure authentication by integrate the web3signer of consensys Image.
     description:  Designed the Cloud solution for critical infrastructure deployment on AWS Kubernetes Cluster with Cloudformation.
@@ -107,10 +107,21 @@
 - project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url:   https://UNDERNDA # Full URL
+    url:   https://UNDER-NDA # Full URL
     image: # path: assets/project/
-    date: 06/2022 &ndash; Python
+    date: 03/2022 &ndash; Python
     title: Formosa
     summary: Formosa is a password format that maximizes the ratio of password strength to user's effort.
     description:  The password generation process consists of mapping input phrases into meaningful mnemonic sentences, then condensed into the password.This is an improvement on the BIP-0039 method — which provides sequences of semantically and syntactically disconnected words as passphrases — because it uses meaningful phrases with a certain theme.
     skills: Python,Shellscripting
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:   https://UNDER-NDA # Full URL
+    image: # path: assets/project/
+    date: 12/2022 &ndash; Hyperledger Fabric & Cloud Consulting
+    title: XSupplyChain Platform
+    summary: The platform provides the plug and play capablity with hyperledger fabric blockchain.
+    description:  Xsupplychain(masked) is a market place for Supplychain Industry where business can leverage the drag and drop facility of the features to start their blockchain enabled product and services.
+    skills: AWS, Hyperledger Fabric, NodeJS, React JS, CouchDB, Golang, Docker, Hyperledger Explorer

@@ -12,7 +12,7 @@ tags: false
 lang: en
 
 # Search engine optimization settings
-title: My profile
+title: Ravinayag
 tagline: My Tech Journey
 description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
 email: ravinayag@gmail.com
@@ -38,7 +38,7 @@ theme_settings:
   awards_title: HONORS
   projects_title: PROJECTS
   recentpubs_title: ARTICLES
-  tools_title: MyLibrary's Reference.
+  tools_title: MyLibrary Reference's
   
 # Pagination
 paginate: 5
