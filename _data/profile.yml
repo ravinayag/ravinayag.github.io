@@ -5,10 +5,10 @@ webpage: https://ravinayag.github.io
 experience: # Remove for hiding the experience section
   - start: 
     end: 
-    experience : Blockchain & Devops Cloud Consultant for Solulab, Launchnodes, NorthStar, Buildpan Orgs
+    experience : Blockchain & DevOps Cloud Consultant for Solulab, Launchnodes, NorthStar, Buildpan Orgs
   - start: 
     end: 
-    experience : Enterprenuership Journey as a Co-Founder & CTO for Enact Edu Solutions
+    experience : Enterprenuer Journey as a Co-Founder at Enact Edu Solutions
   - start: 
     end: 
     experience : Multitenancy roles from JP Morgan, AXA Business, Sun MicroSystems, Connectiva  and CMS Computers 
@@ -45,12 +45,12 @@ social:
   facebook:
   blogspot: solarissupport   # https://linuxsupporttips.wordpress.com ,
 awards: # Remove for hiding the awards section
-  - "Best DevOps Productivity of the Year • Solulab • "
+  - "Best DevOps Productivity • Solulab • "
   - "FIVE Key Recognition • JP Morgan Chase • "
   - "Numero Uno • JP Morgan Chase • "
   - "Project Manager • JP Morgan Chase • "
-  - "Problem Management Award • AXA Business & Tech •  "
-  - "Excellent Customer Handling Award • Sun Microsystems •"
+  - "Best Problem Management • AXA Business & Tech •  "
+  - "Excellent Customer Handling • Sun Microsystems •"
   - "Best Team Management • CMS Computers Ltd • "
 tools: # Remove for hiding the awards section
   - "Yes"

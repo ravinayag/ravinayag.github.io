@@ -1,7 +1,8 @@
 Skill , Tool1,Tool2,Tool3,Tool4,Tool5,
 Blockchain, Ethereum++,Hyperledger,Corda,Multichain,NKN
 Blockchain Tools, Web3js,web3signer,Consensys,Chainlink,Infura,
-Chaos Engineering, Gremlin,
+Code Language, Shell Script, Python, Javascript, GoLang, RUST
+Chaos Engineering, Gremlin, Chaos Monkey
 CloudPlatform, AWS, GCP, DigitalOcean, Linode, Oracle
 Containerization, Docker, Containerd, Lxd/Lxc
 Container Orhestration, AWS-EKS, Native-K8S, Rancher-K3S, GCP-GKE,Docker-Swarm
