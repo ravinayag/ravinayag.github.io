@@ -10,6 +10,6 @@ Code Quality,Veracode,SonarQube
 Config Management, Chef,Ansible,Terraform,
 CI/CD Tools,Jenkins, GH-Actions, GL-Pipelines,CircleCI,
 Databases,Mysql/Mariadb, Postgres,Mongodb,Couchdb,Dynamodb
-Monitoring & Dashboard, ELK, Nagios, Splunk,Dynatrace,Greylog
+Monitoring & Dashboard, ELK Stack, Nagios, Splunk,Grafana,Greylog
 Unit Testing,Junit,Jmeter,Selelinum,Cucumber
 Version Control,Git,SVN,Bitbucket
