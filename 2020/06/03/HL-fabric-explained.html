@@ -1,0 +1,45 @@
+--- layout: page ---
+<div id="post">
+    <section class="post-header">
+        <h1 class="title">Fabric Samples Explained - First Network 1.4 ( BYFN & EYFN )</h1>
+        <p class="subtitle">For Learning BYFN & EYFN from Hyperledger fabric samples and its functions.</p>
+        <p class="meta">
+            June 3, 2020
+        </p>
+    </section>
+    <section class="post-content">
+        
+
+    </section>
+</div>
+<meta http-equiv="Refresh" content="0; url=https://ravinayag.medium.com/hyperledger-fabric-samples-explained-first-network-1-4-byfn-eyfn-f57030cd6043" />
+
+<div id="top" class="top-btn" onclick="moveTop()">
+    <i class="fas fa-chevron-up"></i>
+</div>
+
+<script>
+    var lastScrollTop = 0;
+    window.onscroll = function() {
+        var st = document.body.scrollTop || document.documentElement.scrollTop;
+        if (st > 250) {
+            document.getElementById("top").style.display = "block"
+            if (st > lastScrollTop) {
+                document.getElementById("top").style.opacity = 0
+            } else {
+                document.getElementById("top").style.opacity = 1
+            }
+        } else {
+            document.getElementById("top").style.opacity = 0
+            if (st > lastScrollTop) {
+                document.getElementById("top").style.display = "none"
+            }
+        }
+        lastScrollTop = st <= 0 ? 0 : st;
+    }
+
+    function moveTop() {
+        document.body.scrollTop = 0
+        document.documentElement.scrollTop = 0
+    }
+</script>
