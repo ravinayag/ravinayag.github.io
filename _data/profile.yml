@@ -5,13 +5,13 @@ webpage: https://ravinayag.github.io
 experience: # Remove for hiding the experience section
   - start: 
     end: 
-    experience : Blockchain & DevOps Cloud Consultant for Solulab, Launchnodes, NorthStar, Buildpan Orgs
+    experience : Startup Journey as Blockchain, DevOps, DevSecops & Cloud Architect for Solulab, Launchnodes, NorthStar, Buildpan Orgs
   - start: 
     end: 
     experience : Enterprenuer Journey as a Co-Founder at Enact Edu Solutions
   - start: 
     end: 
-    experience : Multitenancy roles from JP Morgan, AXA Business, Sun MicroSystems, Connectiva  and CMS Computers 
+    experience : Multitenancy roles from the corporate organization like JP Morgan, AXA Business, Sun Microsystems...
 
 interests: # Remove for hiding the interests section
   - Advance Automation Devops
@@ -21,7 +21,7 @@ skills: # Remove for hiding the skills section
   - skill: Blockchain & Devops
     value: 85  # Percent value
   - skill: IT Infrastructure
-    value: 90  # Percent value      
+    value: 95  # Percent value      
   - skill: Unix & Linux
     value: 95  # Percent value    
   - skill: Programing languages

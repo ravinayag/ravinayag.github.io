@@ -1,7 +1,7 @@
 Skill , Tool1,Tool2,Tool3,Tool4,Tool5,
 Blockchain, Ethereum++,Hyperledger,Corda,Multichain,NKN
 Blockchain Tools, Web3js,web3signer,Consensys,Chainlink,Infura,
-Code Language, Shell Script, Python, Javascript, GoLang, RUST
+Coding Languages, Shell Script, Python, Javascript, GoLang, RUST
 Chaos Engineering, Gremlin, Chaos Monkey
 CloudPlatform, AWS, GCP, DigitalOcean, Linode, Oracle
 Containerization, Docker, Containerd, Lxd/Lxc
@@ -12,4 +12,4 @@ CI/CD Tools,Jenkins, GH-Actions, GL-Pipelines,CircleCI,
 Databases,Mysql/Mariadb, Postgres,Mongodb,Couchdb,Dynamodb
 Monitoring & Dashboard, ELK Stack, Nagios, Splunk,Grafana,Greylog
 Unit Testing,Junit,Jmeter,Selelinum,Cucumber
-Version Control,Git,SVN,Bitbucket
+Version Control, Git*, SVN, Bitbucket
