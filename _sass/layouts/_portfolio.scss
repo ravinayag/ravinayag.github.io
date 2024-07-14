@@ -172,6 +172,39 @@
         }
       }
     }
+    .certs-section {
+      margin-top: 20px;
+      margin-left: 3%;
+      list-style-type: none;      
+    }
+    .certs-title {
+      color: #563d7c; /* Example color: adjust to your preferred color */
+    }
+    .certs-section h3 {
+      font-size: 1.5em;
+      margin-bottom: 20px;
+    }
+    
+    .certs-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+    
+    .cert-item {
+      flex: 0 0 auto;
+      width: 100px; /* Adjust the width as needed */
+      height: 100px; /* Adjust the height as needed */
+      overflow: hidden;
+      border-radius: 10px; /* Optional: adds rounded corners */
+    }
+    
+    .cert-icon {
+      max-width: 100%;
+      max-height: 100%;
+    }  
+
     ul.interests-list {
       margin-top: 20px;
       margin-left: 3%;
