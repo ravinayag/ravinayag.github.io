@@ -33,8 +33,7 @@ jobs:
       # Install dependencies
       - name: Install dependencies
         run: |
-          gem install bundler -v 2.5.15
-          bundle install
+          bundle install --verbose --jobs 4 --retry 3
 
       # Debugging step to ensure Ruby and Bundler versions
       - name: Check Ruby and Bundler versions
