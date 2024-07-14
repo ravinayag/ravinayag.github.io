@@ -10,7 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
+      # Set up Ruby environment
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0.0'  # Specify the required Ruby version
+      # Debugging step to ensure Ruby and Bundler versions
+      - name: Check Ruby and Bundler versions
+        run: |
+          ruby -v
+          bundler -v          
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v2
         with:
@@ -18,6 +27,21 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+      # Install Bundler
+      - name: Install Bundler
+        run: gem install bundler
+      # Install dependencies
+      - name: Install dependencies
+        run: |
+          gem install bundler -v 2.5.15
+          bundle install
+
+      # Debugging step to ensure Ruby and Bundler versions
+      - name: Check Ruby and Bundler versions
+        run: |
+          ruby -v
+          bundler -v
+      
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: jeffreytse/jekyll-deploy-action@v0.3.1
         with:
