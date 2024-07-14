@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
 gemspec
+ruby '3.0.0'
 
+gem "bundler", "~> 2.5.15"
 gem "webrick"
 gem "kramdown-parser-gfm"
 
