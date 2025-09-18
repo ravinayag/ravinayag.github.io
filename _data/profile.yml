@@ -5,17 +5,18 @@ webpage: https://ravinayag.github.io
 experience: # Remove for hiding the experience section
   - start: 
     end: 
-    experience : Startup Journey as Blockchain, DevOps, DevSecops & Cloud Architect for Solulab, Launchnodes, NorthStar, Buildpan Orgs
+    experience : <strong>Startup Journey</strong> - Served as Blockchain, DevOps, DevSecOps, and Cloud Architect for innovative startups including Solulab, Launchnodes, NorthStar, and Buildpan.
   - start: 
     end: 
-    experience : Enterprenuer Journey as a Co-Founder at Enact Edu Solutions
+    experience : <strong>Entrepreneurial Experience</strong> - Co-Founder of Enact Edu Solutions, Solution Architect, Product owner, driving product development, business strategy, and tech leadership in the EdTech domain.
   - start: 
     end: 
-    experience : Multitenancy roles from the corporate organization like JP Morgan, AXA Business, Sun Microsystems...
+    experience : <strong>Corporate Experience</strong> - Performed cross-functional roles across major corporate environments including JP Morgan, AXA Business, Sun Microsystems
 
 interests: # Remove for hiding the interests section
   - Advance Automation Devops
-  - Open A.I. 
+  - Quantum Computing Applications
+  - MLOps
   - Blockchain & Metaverse
 skills: # Remove for hiding the skills section
   - skill: Blockchain & Devops

@@ -1,3 +1,59 @@
+- project:
+    print: True
+    modal: True
+    url: https://certdecoder.devopsconsultants.com
+    image: # path: assets/project/
+    date: 2024 &ndash; Personal Project
+    title: Certificate Management Suite
+    summary: Comprehensive certificate management platform featuring SSL/TLS decoder, crypto tools, certificate validation, chain analysis, security assessment, and automated monitoring.
+    description: Complete solution for all your certificate needs. This platform provides comprehensive certificate management capabilities including SSL/TLS certificate decoding, cryptographic tools, certificate validation, chain analysis, security assessment, and automated monitoring. Built to simplify certificate management for developers and system administrators.
+    skills: React, Golang, WebSocket, MongoDB, Docker, Vercel
+    contents:
+        - title: Key Features
+          description: <ul><li>SSL/TLS Certificate Decoder</li><li>Certificate Validation & Chain Analysis</li><li>Security Assessment Tools</li><li>Automated Certificate Monitoring</li><li>Crypto Tools & Utilities</li><li>Real-time Certificate Status Updates</li><li>Certificate Expiry Alerts</li><li>Multi-format Certificate Support</li></ul>
+
+- project:
+    print: True
+    modal: True
+    url: https://haas.devopzconsultants.com
+    image: # path: assets/project/
+    date: 2024 &ndash; Personal Project
+    title: Helm as a Service (HaaS)
+    summary: Create custom chart repositories and manage your Kubernetes clusters through an intuitive web GUI.
+    description: HaaS provides a streamlined solution for creating and managing custom Helm chart repositories while offering comprehensive cluster management through a user-friendly web interface. Perfect for teams who need centralized chart management and visual cluster operations.
+    skills: React, Golang, WebSocket, PostgreSQL, Docker, Vercel
+    contents:
+        - title: Core Features
+          description: <ul><li>Custom Chart Repository Creation</li><li>Web GUI Cluster Management</li><li>Visual Kubernetes Operations</li><li>Chart Version Control</li><li>Repository Access Management</li><li>Cluster Resource Monitoring</li></ul>
+
+- project:
+    print: True
+    modal: True
+    url: https://opzmon.devopzconsultants.com
+    image: # path: assets/project/
+    date: 2024 &ndash; Personal Project
+    title: Ops Monitoring (OpzMon)
+    summary: Comprehensive infrastructure monitoring and alerting. Keep your systems healthy with real-time insights and automated responses.
+    description: A complete infrastructure monitoring solution that provides real-time insights into system health, performance metrics, and automated alerting. OpzMon helps maintain system reliability through proactive monitoring and intelligent alerting mechanisms.
+    skills: React, Vite.js, Node.js, WebSocket, MySQL, Docker, Vercel
+    contents:
+        - title: Monitoring Features
+          description: <ul><li>Real-time Infrastructure Monitoring</li><li>Performance Metrics & Analytics</li><li>Automated Alert Management</li><li>System Health Dashboards</li><li>Custom Metric Collection</li><li>Multi-platform Support</li><li>Incident Response Automation</li><li>Historical Data Analysis</li></ul>
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url: # Full URL
+    image: # path: assets/project/
+    date: 2024 &ndash; Cloud Migration Lead & DevOps
+    title: Blockthree
+    summary: Multi-cloud blockchain infrastructure migration from private cloud to Azure and Scaleway.
+    description: A comprehensive migration project from private cloud to multi-cloud platform using Azure and Scaleway for production and disaster recovery. The solution implements secure blockchain infrastructure with 20+ core services, private blockchain network, and robust monitoring capabilities.
+    skills: Azure, AKS, AKV, ACR, VPN, Postgres, Keycloak, WebSocket, NodeJS, React, Vue.js, Redis, Hyperledger Quorum Key Manager, Hyperledger Besu QBFT, Blockscout, RPC nodes, Jenkins, Prometheus/Grafana, SCW Kapsule, Fireblocks, IDV Check, Pinata
+    contents:
+        - title: Tasks involved
+          description: <ul><li>Azure & Scaleway Infrastructure Setup</li><li>Kubernetes Cluster Configuration</li><li>Application Deployment Structure</li><li>Network Configuration</li><li>Service Interconnectivity</li><li>Implement secure blockchain infrastructure</li><li>Ensure regulatory compliance</li><li>Establish robust monitoring and operational procedures</li><li>Enable scalable and maintainable architecture</li><li>Deployment of 20+ core services</li><li>Implementation of private blockchain network</li><li>Implementation of QKM</li><li>Integration with third-party services</li><li>Security and compliance implementation</li><li>Monitoring and operational tools setup</li><li>Implemented Zero Trust Network</li></ul>
+
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
