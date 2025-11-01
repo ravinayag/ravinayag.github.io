@@ -19,14 +19,16 @@ interests: # Remove for hiding the interests section
   - MLOps
   - Blockchain & Metaverse
 skills: # Remove for hiding the skills section
-  - skill: Blockchain & Devops
-    value: 85  # Percent value
   - skill: IT Infrastructure
     value: 95  # Percent value      
   - skill: Unix & Linux
     value: 95  # Percent value    
+  - skill: Blockchain & Devops
+    value: 85  # Percent value    
   - skill: Programing languages
-    value: 70  # Percent value      
+    value: 70  # Percent value   
+  - skill: Agentic AI & Workflow Automation
+    value: 60  # Percent value         
 social:
   email:  ravinayag@gmail.com
   orcid: 

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
 gemspec
-ruby '3.2.0'
+ruby '3.2.9'
 
 gem "bundler", "~> 2.5.15"
 gem "webrick"
@@ -13,4 +13,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-seo-tag"
   #gem 'wdm', '>= 0.1.0'
+  gem "liquid", ">= 4.0.4"
 end

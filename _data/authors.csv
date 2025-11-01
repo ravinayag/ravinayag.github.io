@@ -13,3 +13,5 @@ Databases,Mysql/Mariadb, Postgres,Mongodb,Couchdb,Dynamodb
 Monitoring & Dashboard, ELK Stack, Nagios, Splunk,Grafana,Greylog
 Unit Testing,Junit,Jmeter,Selelinum,Cucumber
 Version Control, Git*, SVN, Bitbucket
+WorkFlow Automaton, N8N, Airtable, Zapier
+AI, Ollama, comfyui, GPT-4, Dall-E, Stable Diffusion

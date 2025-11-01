@@ -17,7 +17,7 @@
     modal: True
     url: https://haas.devopzconsultants.com
     image: # path: assets/project/
-    date: 2024 &ndash; Personal Project
+    date: 2025 &ndash; Personal Project
     title: Helm as a Service (HaaS)
     summary: Create custom chart repositories and manage your Kubernetes clusters through an intuitive web GUI.
     description: HaaS provides a streamlined solution for creating and managing custom Helm chart repositories while offering comprehensive cluster management through a user-friendly web interface. Perfect for teams who need centralized chart management and visual cluster operations.
@@ -31,7 +31,7 @@
     modal: True
     url: https://opzmon.devopzconsultants.com
     image: # path: assets/project/
-    date: 2024 &ndash; Personal Project
+    date: 2025 &ndash; Personal Project
     title: Ops Monitoring (OpzMon)
     summary: Comprehensive infrastructure monitoring and alerting. Keep your systems healthy with real-time insights and automated responses.
     description: A complete infrastructure monitoring solution that provides real-time insights into system health, performance metrics, and automated alerting. OpzMon helps maintain system reliability through proactive monitoring and intelligent alerting mechanisms.
@@ -45,6 +45,21 @@
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url: # Full URL
     image: # path: assets/project/
+    date: 2025 &ndash; Solution Architect AI & Devops
+    title: Devopz Consultants
+    summary:  Agentic AI & Domain-Specialist.    
+    description: Designed and implemented an end-to-end agentic AI system for a SaaS platform integrating autonomous multi-agent orchestration, domain specialization, and intelligent retrieval pipelines. The project focused on building scalable, production-ready AI architectures combining LLMs, RAG/CAG pipelines, and fine-tuning strategies to deliver reliable, context-aware automation for enterprise use cases.
+    skills: Python, TypeScript, JavaScript, ReactJS, VueJ, LangGraph, LangChain, AutoGen, LlamaIndex, PostgreSQL, Pinecone, Weaviate, Qdrant, FastAPI, Flask, ExpressJS, GraphQL (Hasura), AWS (EC2, ECS, RDS, S3, Lambda), Docker, Kubernetes, CI/CD, Hugging Face, sentence-transformers, FAISS Pipelines
+    contents:
+        - title: Tasks involved
+          description: <ul><li>Architected and deployed multi-agent AI systems with RAG pipelines, custom APIs, and LLM integrations (OpenAI, Claude, Together.ai), enabling reliable, secure, and optimized end-to-end intelligence across cloud and full-stack applications</li><li>
+
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url: # Full URL
+    image: # path: assets/project/
     date: 2024 &ndash; Cloud Migration Lead & DevOps
     title: Blockthree
     summary: Multi-cloud blockchain infrastructure migration from private cloud to Azure and Scaleway.
@@ -52,7 +67,8 @@
     skills: Azure, AKS, AKV, ACR, VPN, Postgres, Keycloak, WebSocket, NodeJS, React, Vue.js, Redis, Hyperledger Quorum Key Manager, Hyperledger Besu QBFT, Blockscout, RPC nodes, Jenkins, Prometheus/Grafana, SCW Kapsule, Fireblocks, IDV Check, Pinata
     contents:
         - title: Tasks involved
-          description: <ul><li>Azure & Scaleway Infrastructure Setup</li><li>Kubernetes Cluster Configuration</li><li>Application Deployment Structure</li><li>Network Configuration</li><li>Service Interconnectivity</li><li>Implement secure blockchain infrastructure</li><li>Ensure regulatory compliance</li><li>Establish robust monitoring and operational procedures</li><li>Enable scalable and maintainable architecture</li><li>Deployment of 20+ core services</li><li>Implementation of private blockchain network</li><li>Implementation of QKM</li><li>Integration with third-party services</li><li>Security and compliance implementation</li><li>Monitoring and operational tools setup</li><li>Implemented Zero Trust Network</li></ul>
+          description: <ul><li>Azure & Scaleway Infrastructure Setup</li><li> #Kubernetes Cluster Configuration</li><li>Application Deployment Structure</li><li>Network Configuration</li><li>Service Interconnectivity</li><li>Implement secure blockchain infrastructure</li><li>Ensure regulatory compliance</li><li>Establish robust monitoring and operational procedures</li><li>Enable scalable and maintainable architecture</li><li>Deployment of 20+ core services</li><li>Implementation of private blockchain network</li><li>Implementation of QKM</li><li>Integration with third-party services</li><li>Security and compliance implementation</li><li>Monitoring and operational tools setup</li><li>Implemented Zero Trust Network</li></ul>
+          
 
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
