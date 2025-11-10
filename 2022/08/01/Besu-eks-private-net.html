@@ -1,0 +1,45 @@
+--- layout: page ---
+<div id="post">
+    <section class="post-header">
+        <h1 class="title">Hyperledger Besu — Private & Permissioned Network over EKS Cluster</h1>
+        <p class="subtitle">How to build  Ethereum private network using besu</p>
+        <p class="meta">
+            August 1, 2022
+        </p>
+    </section>
+    <section class="post-content">
+        
+
+    </section>
+</div>
+<meta http-equiv="Refresh" content="0; url=https://ravinayag.medium.com/hyperledger-besu-private-permissioned-network-over-eks-cluster-9b81b61d7202" />
+
+<div id="top" class="top-btn" onclick="moveTop()">
+    <i class="fas fa-chevron-up"></i>
+</div>
+
+<script>
+    var lastScrollTop = 0;
+    window.onscroll = function() {
+        var st = document.body.scrollTop || document.documentElement.scrollTop;
+        if (st > 250) {
+            document.getElementById("top").style.display = "block"
+            if (st > lastScrollTop) {
+                document.getElementById("top").style.opacity = 0
+            } else {
+                document.getElementById("top").style.opacity = 1
+            }
+        } else {
+            document.getElementById("top").style.opacity = 0
+            if (st > lastScrollTop) {
+                document.getElementById("top").style.display = "none"
+            }
+        }
+        lastScrollTop = st <= 0 ? 0 : st;
+    }
+
+    function moveTop() {
+        document.body.scrollTop = 0
+        document.documentElement.scrollTop = 0
+    }
+</script>
